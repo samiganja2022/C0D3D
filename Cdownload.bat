@@ -1,4 +1,4 @@
-@echo
+@echo off
 cd "C:\" 
 md Update
 cd "C:\Update\
